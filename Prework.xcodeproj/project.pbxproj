@@ -15,6 +15,7 @@
 		3F54A22E26B1D2280000BDD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F54A22C26B1D2280000BDD3 /* LaunchScreen.storyboard */; };
 		3F54A23926B1D2280000BDD3 /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F54A23826B1D2280000BDD3 /* PreworkTests.swift */; };
 		3F54A24426B1D2280000BDD3 /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F54A24326B1D2280000BDD3 /* PreworkUITests.swift */; };
+		3F54A25226B1DEB60000BDD3 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F54A25126B1DEB60000BDD3 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3F54A23F26B1D2280000BDD3 /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F54A24326B1D2280000BDD3 /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		3F54A24526B1D2280000BDD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F54A25126B1DEB60000BDD3 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		3F54A22026B1D2270000BDD3 /* Prework */ = {
 			isa = PBXGroup;
 			children = (
+				3F54A25126B1DEB60000BDD3 /* SettingsViewController.swift */,
 				3F54A22126B1D2270000BDD3 /* AppDelegate.swift */,
 				3F54A22326B1D2270000BDD3 /* SceneDelegate.swift */,
 				3F54A22526B1D2270000BDD3 /* ViewController.swift */,
@@ -261,6 +264,7 @@
 				3F54A22626B1D2270000BDD3 /* ViewController.swift in Sources */,
 				3F54A22226B1D2270000BDD3 /* AppDelegate.swift in Sources */,
 				3F54A22426B1D2270000BDD3 /* SceneDelegate.swift in Sources */,
+				3F54A25226B1DEB60000BDD3 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
