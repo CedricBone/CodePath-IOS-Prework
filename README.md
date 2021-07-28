@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] List anything else that you can get done to improve the app functionality!
-I added a custom tip slider
+- [x] I added a custom tip slider
 
 ## Video Walkthrough
 
